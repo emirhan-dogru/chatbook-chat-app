@@ -1,0 +1,132 @@
+#friends-image {
+    height: 23px;
+    width: 23px;
+    margin-right: 10px;
+    border-radius: 23px;
+}
+
+.is_notReaded_message_icon {
+    padding-right: 10px;
+    font-size: 9px;
+    color: #34515e;
+}
+
+.friends-status-icon {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 10px;
+}
+
+.direct-chat {
+    height: auto;
+}
+
+.direct-chat-messages {
+    height: 500px;
+}
+
+.register-lockscreen-wrapper {
+    margin-top: 3%;
+}
+
+.help-block {
+    color: red;
+}
+
+.help-block-description {
+    color: #737373 !important;
+}
+
+.friend_plus_btn {
+    background-color: #357CA5;
+    color: #fff;
+    font-size: 21px;
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    padding: 9px;
+    position: fixed;
+    margin-left: 180px;
+    bottom: 10px;
+}
+
+.profile-user-img {
+    width: 88px !important;
+    height: 88px !important;
+}
+
+.isPhone_valid , .valid-error-message {
+    color: red;
+}
+
+.bolder {
+    font-weight: 600;
+}
+
+.homepage-user-img {
+    width: 100%;
+    max-width: 45px;
+    height: 45px !important;
+}
+
+.swal2-popup {
+  font-size: 1.6rem !important;
+}
+
+.remove-btn {
+    cursor: pointer;
+}
+
+.img-n-user {
+    background-color: #fff;
+}
+
+.do-friend-accept-btn {
+    position: relative;
+    right: 100px !important;
+    left: -10px;
+}
+
+.do-invite-btn {
+    border: 1px solid #3c8dbc;
+    border-radius: 25px;
+    height: 25px;
+    width: 25px;
+    margin-left: 10px;
+}
+
+.do-invite-btn .fa {
+    margin-right: -5px !important;
+    font-size: 11px;
+}
+
+.do-invite-btn:hover {
+    border: 1px solid #000;
+}
+
+.messsage-title a {
+    color: gray !important;
+}
+
+.messsage-title a:hover {
+    color: #000 !important;
+}
+
+
+
+#message-friends-image {
+    height: 23px; 
+    width: 23px; 
+    margin-right: 10px;
+    margin-top: -6px;
+    border-radius: 23px;
+}
+
+
+#scroll {
+    height: 500px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+
